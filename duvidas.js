@@ -10,5 +10,14 @@ for(var i=0;i<class_teste.length;i++) {
     class_teste[i].innerHTML=txt;
 }
 
-var imagem=["neve.jpg","floresta.jpg"];
-document.querySelector(".img").innerHTML="<img src='img/neve.jpg'>";
+var imagem=["<img src='img/neve.jpg'>", "<img src='img/floresta.jpg'>"];
+
+for(var i=0;i>=imagem.length;i++){
+    document.querySelector('.img').innerHTML+= imagem[1];
+  
+}
+
+
+
+
+// document.querySelector(".img").innerHTML="<img src='img/neve.jpg'>";
