@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    margin: 10px;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.em;
+    background-image: url(img/matematica1.jpg);
+    background-size: cover;
+    background-position: top top;
+}
+
+h1 {
+    color: #FCE762;
+    text-align: center;
+}
+
+#saida {
+    margin:60px auto;
+    padding: 10px;
+    border: 2px solid blueviolet;
+    width: 60%;
+    height: 400px;
+    background-color: hsl(0, 0%,20%);
+    color: greenyellow;
+}
+
+p {
+    padding: 7px;
+}
