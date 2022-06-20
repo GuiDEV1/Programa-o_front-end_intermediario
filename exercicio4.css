@@ -11,6 +11,7 @@ body {
     background-image: url(img/matematica1.jpg);
     background-size: cover;
     background-position: top top;
+    background-attachment: fixed;
 }
 
 h1 {
