@@ -1,0 +1,28 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-image: url(img/mate2.jpg);
+    background-size: cover;
+    background-position: 50% 20%;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+#saida {
+    width: 60%;
+    height: 400px;
+    border: 2px solid greenyellow;
+    margin: 60px auto;
+    background: #00A1E4;
+    color: #fff;
+    padding: 15px;
+}
